@@ -3,19 +3,19 @@
 Aplicativo de portal de notícias baseado em tecnologias como:
 ## Backend
    #### => NodeJS
-   ## => Express
-   ## => MSQL
-   ## => Express-Validator
-   ## => Consign
-   ## => NPM
+   #### => Express
+   #### => MSQL
+   #### => Express-Validator
+   #### => Consign
+   #### => NPM
 
  ## Front-end
-   ### => HTML
-   ### => CSS
-   ### => Javascript
-   ### => Boostrap
+   #### => HTML
+   #### => CSS
+   #### => Javascript
+   #### => Boostrap
  
-<i>Com implementação de segurança através do uso de diversos métodos de validação de dados (express-validator)</i>
+<i>Com implementação de segurança através do uso de diversos métodos de validação de dados. Projecto foi desenvolvido com uma base de dados local, assim sendo num futuro breve quando for a fazer um deploy, darei a manutenção a fim de incorporar uma base de dados baseada em nuvem. Assim como também melhorar alguns aspectos visuais na parte de front.</i>
 
  <div style="display: inline-block">
     <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -26,5 +26,5 @@ Aplicativo de portal de notícias baseado em tecnologias como:
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
-<h2>Colaboradores</h2>
+<h3>Colaboradores</h3>
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbelErasmo/)
