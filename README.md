@@ -2,12 +2,12 @@
 
 Aplicativo de portal de notícias baseado em tecnologias como:
 ## Backend
-   ### => NodeJS
-   ### => Express
-   ### => MSQL
-   ### => Express-Validator
-   ### => Consign
-   ### => NPM
+   #### => NodeJS
+   ## => Express
+   ## => MSQL
+   ## => Express-Validator
+   ## => Consign
+   ## => NPM
 
  ## Front-end
    ### => HTML
