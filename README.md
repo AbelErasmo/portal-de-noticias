@@ -1,7 +1,8 @@
 # portal-de-noticias
 
-Aplicativo de portal de notícias baseado em tecnologias como:
-## Backend
+<i>Com implementação de segurança através do uso de diversos métodos de validação de dados. Projecto foi desenvolvido com uma base de dados local, assim sendo num futuro breve quando for a fazer um deploy, darei a manutenção a fim de incorporar uma base de dados baseada em nuvem. Assim como também melhorar alguns aspectos visuais na parte de front.</i>
+
+## Tecnologias usadas no Backend
    #### => NodeJS
    #### => Express
    #### => MSQL
@@ -9,13 +10,11 @@ Aplicativo de portal de notícias baseado em tecnologias como:
    #### => Consign
    #### => NPM
 
- ## Front-end
+ ## Tecnologias usadas no Front-end
    #### => HTML
    #### => CSS
    #### => Javascript
    #### => Boostrap
- 
-<i>Com implementação de segurança através do uso de diversos métodos de validação de dados. Projecto foi desenvolvido com uma base de dados local, assim sendo num futuro breve quando for a fazer um deploy, darei a manutenção a fim de incorporar uma base de dados baseada em nuvem. Assim como também melhorar alguns aspectos visuais na parte de front.</i>
 
  <div style="display: inline-block">
     <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -27,4 +26,4 @@ Aplicativo de portal de notícias baseado em tecnologias como:
 </div>
 
 <h3>Colaboradores</h3>
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbelErasmo/)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.linkedin.com/in/erasmo-abel-2333641b4/)
