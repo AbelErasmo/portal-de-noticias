@@ -1,6 +1,6 @@
 # portal-de-noticias
 
-<i>É um projecto de aplicativo de noticias que compõe diversas features de um portal de notícias. O projecto foi desenvolvido com uma base de dados local, assim sendo num futuro breve em um possível deploy, darei a manutenção a fim de incorporar uma base de dados  e alguns serviços baseados em nuvem, incluindo uma API para consumir as notícias. Assim como melhorar alguns aspectos visuais na parte de front.</i>
+<i>É um projecto de aplicativo de noticias que compõe diversas features de um portal de notícias. O projecto foi desenvolvido com uma base de dados local, assim sendo num futuro breve em um possível deploy, farei a manutenção a fim de incorporar uma base de dados  e alguns serviços baseados em nuvem, incluindo uma API para consumir as notícias. Assim como melhorar alguns aspectos visuais na parte de front.</i>
 
 ## Tecnologias usadas no Backend
    #### => NodeJS
